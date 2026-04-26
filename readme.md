@@ -1,4 +1,4 @@
-# 🚀 AI Behavioral Stress Detection using PALL0
+# 🚀 Lie Detection using PALL0
 
 ## 🧠 Overview
 
