@@ -1,4 +1,4 @@
-# 🚀 Lie Detection using PALL0
+# 🚀  Stress Detection at Work using PALL0
 
 ## 🧠 Overview
 
